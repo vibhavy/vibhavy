@@ -7,7 +7,8 @@ I am **Vibhav Yadav** working as **Module Lead @ Fintech Organization**. Energet
 ---
 
 - 🌱 I’m currently learning **GoLang**
-- 💬 Ask me about **Web Applications**
+- 💬 Let's talk about **Javascript(Nodejs, Reactjs), Databases(Mysql, MongoDB)**
+- 👯 I’m looking to collaborate on **open source** projects
 - 📫 How to reach me:
   [Linkedin](https://www.linkedin.com/in/vibhavyadav)
 

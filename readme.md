@@ -11,4 +11,4 @@ I am **Vibhav Yadav** working as **Module Lead @ Fintech Organization**. Energet
 - 📫 How to reach me:
   [Linkedin](https://www.linkedin.com/in/vibhavyadav)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=vibhavy&show_icons=true&hide_border=true)
